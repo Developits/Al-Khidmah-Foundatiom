@@ -1,0 +1,140 @@
+.font-style {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 50px;
+  padding-top: 70px;
+}
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+.first-banner {
+  background-image: url("images/donation13.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding-left: 250px;
+}
+.link-button {
+  text-decoration: none;
+  background-color: tomato;
+  padding: 10px 40px;
+  color: white;
+  font-weight: 700;
+  border-radius: 10px;
+}
+.banner-marging {
+  text-align: center;
+  display: block;
+}
+.outline {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.extra-margin {
+  margin-bottom: 20px;
+  padding-bottom: 50px;
+}
+.paragraph-marging-top {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+.paragraph-marging-bottom {
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-bottom: 30px;
+}
+.donation-section {
+  display: flex;
+  text-align: center;
+  margin-left: 25%;
+  padding-bottom: 50px;
+}
+.money-value {
+  margin: 10px;
+  padding: 10px 30px 10px;
+  background-color: rgb(221, 215, 215);
+  border-radius: 5%;
+  color: grey;
+}
+.highlight-button {
+  border: 3px solid red;
+  color: red;
+}
+.fild-money {
+  color: gray;
+}
+.line {
+  width: 75%;
+  height: 2px;
+  background-color: gray;
+  margin-bottom: 30px;
+}
+input {
+  border-top-color: white;
+  outline: none;
+  text-align: center;
+  width: 75%;
+  box-shadow: none;
+  border: none;
+  border-bottom: 2px;
+  color: gray;
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 100px;
+}
+.donation-items {
+  width: 40%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding: 3px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 40px gray;
+  text-align: left;
+}
+#first-box {
+  background-color: #edf5f6;
+}
+#second-box {
+  background-color: #ffeeee;
+}
+#third-box {
+  background-color: #fff4d6;
+}
+.box {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  background: #fff4d6;
+  padding: 40px;
+  margin-left: 50%;
+  margin-top: 100px;
+}
+.email-box {
+  height: 30px;
+  border-radius: 5px;
+  background: #d9d9d9;
+  text-align: left;
+  margin-right: 0px;
+}
+.subscribe-button {
+  color: white;
+  background: #ff5959;
+  border-radius: 5px;
+  height: 30px;
+  border-color: transparent;
+  margin-left: 0px;
+}
