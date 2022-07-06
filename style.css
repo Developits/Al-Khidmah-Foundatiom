@@ -14,7 +14,7 @@ html {
   margin: 0;
 }
 .first-banner {
-  background-image: url("images/donation13.jpg");
+  background-image: url("Images/donation13.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -114,6 +114,7 @@ input {
 #third-box {
   background-color: #fff4d6;
 }
+
 .box {
   position: absolute;
   transform: translate(-50%, -50%);
