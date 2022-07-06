@@ -36,6 +36,7 @@ html {
 .banner-marging {
   text-align: center;
   display: block;
+  margin-top: 100px;
 }
 .outline {
   margin-top: 0px;
@@ -114,6 +115,9 @@ input {
 #third-box {
   background-color: #fff4d6;
 }
+.gallary-container {
+  display: flex;
+}
 
 .box {
   position: absolute;
@@ -138,4 +142,21 @@ input {
   height: 30px;
   border-color: transparent;
   margin-left: 0px;
+  margin-bottom: 0px;
+}
+.footer {
+  text-align: center;
+  margin-top: 200px;
+  background: black;
+  height: 100px;
+  width: 100%;
+}
+#highlight {
+  color: #ff5959;
+  font-size: 40px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+#lowlight {
+  color: white;
 }
